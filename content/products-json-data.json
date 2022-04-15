@@ -1,0 +1,415 @@
+[
+    {
+        "productData": [
+            {
+                "price": "$0.07 USD",
+                "rightText": "/hour",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ECS.png.png",
+                "title": "Elastic Cloud Server (ECS)",
+                "description": "Launch scalable cloud servers in minutes"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/wangxue/guojiyingwen/shouye/OCR.png.png",
+                "title": "Optical Character Recognition (OCR)",
+                "description": "Detect and extract text from images and convert it into an editable JSON format"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/wangxue/guojiyingwen/shouye/CC.png.png",
+                "title": "Cloud Connect (CC)",
+                "description": "Connect  VPCs across regions"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/MySQL-1.png.png",
+                "title": "RDS for MySQL",
+                "description": "Popular, open-source database with excellent performance for the LAMP stack"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ModelArts.png.png",
+                "title": "ModelArts",
+                "description": "One-stop AI development platform for developers and data scientists"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/wangxue/guojiyingwen/shouye/CDN.png",
+                "title": "Content Delivery Network (CDN)",
+                "description": "Speed up websites and apps, improving user experience and reliability"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/HSS.png.png",
+                "title": "Host Security Service (HSS)",
+                "description": "Manage assets, prevent intrusions, and eliminate vulnerabilities and unsafe settings"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/wangxue/guojiyingwen/shouye/CCE.png",
+                "title": "Cloud Container Engine (CCE)",
+                "description": "An enterprise-class, managed Kubernetes service"
+            }
+        ],
+        "category": "Featured"
+    },
+    {
+        "productData": [
+            {
+                "price": "$0.07 USD",
+                "rightText": "/hour",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ECS.png.png",
+                "title": "Elastic Cloud Server (ECS)",
+                "description": "Launch scalable cloud servers in minutes"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/BMS.png.png",
+                "title": "Bare Metal Server (BMS)",
+                "description": "Fully dedicated, secure, high-performance servers"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DEH.png.png",
+                "title": "Dedicated Host (DeH)",
+                "description": "Ensure performance by keeping compute resources isolated"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/AS.png.png",
+                "title": "Auto Scaling (AS)",
+                "description": "Automatically scale compute resources to adapt to changing demands"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/IMS.png.png",
+                "title": "Image Management Service (IMS)",
+                "description": "Create and deploy servers faster with images"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/FunctionGraph.png.png",
+                "title": "FunctionGraph",
+                "description": "Run your code without provisioning or managing servers"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DCC.png.png",
+                "title": "Dedicated Computing Cluster (DCC)",
+                "description": "Physically isolated compute resource pools for your workloads"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/compute.png.png",
+                "title": "View All Compute Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            }
+        ],
+        "category": "Compute"
+    },
+    {
+        "productData": [
+            {
+                "price": "$0.054 USD",
+                "rightText": "/GB-month",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/EVS(1).png",
+                "title": "Elastic Volume Service (EVS)",
+                "description": "Persistent block storage"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/CBR.png.png",
+                "title": "Cloud Backup and Recovery (CBR)",
+                "description": "Cloud backups for in-cloud and on-premises resources"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/OBS.png.png",
+                "title": "Object Storage Service (OBS)",
+                "description": "Infinitely scalable object storage"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DSS.png.png",
+                "title": "Dedicated Distributed Storage Service (DSS)",
+                "description": "Dedicated, physical block storage"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/SFS.png.png",
+                "title": "Scalable File Service (SFS)",
+                "description": "Fully hosted shared file storage"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/SDRS.png.png",
+                "title": "Storage Disaster Recovery Service (SDRS)",
+                "description": "Cross-AZ, zero-RPO data protection for cloud servers"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DES.png.png",
+                "title": "Data Express Service (DES)",
+                "description": "Secure, fast transmission of massive data to HUAWEI CLOUD"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/storage.png",
+                "title": "View All Storage Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            }
+        ],
+        "category": "Storage"
+    },
+    {
+        "productData": [
+            {
+                "price": "Free",
+                "rightText": "Free",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/VPC(1).png",
+                "title": "Virtual Private Cloud (VPC)",
+                "description": "A private network environment for your resources on the cloud"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/VPN.png.png",
+                "title": "Virtual Private Network (VPN)",
+                "description": "Encrypted IPsec connection between your on-premises data center and the cloud"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/CC.png.png",
+                "title": "Cloud Connect (CC)",
+                "description": "Connect VPCs across regions"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/EIP.png.png",
+                "title": "Elastic IP (EIP)",
+                "description": "Static public IP addresses"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ELB.png.png",
+                "title": "Elastic Load Balance (ELB)",
+                "description": "Improve the availability of your applications by keeping server load balanced"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/NAT.png.png",
+                "title": "NAT Gateway (NAT)",
+                "description": "Network address translation for cloud and on-premises servers"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DC.png.png",
+                "title": "Direct Connect (DC)",
+                "description": "Dedicated network connection between your on-premises data center and the cloud"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/networking.png",
+                "title": "View All Networking Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "productData": [
+            {
+                "price": "$0.08 USD",
+                "rightText": "/hour",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/MySQL.png",
+                "title": "RDS for MySQL",
+                "description": "Popular, open-source database with excellent performance for the LAMP stack"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/GaussDB-formysql.png",
+                "title": "GaussDB(for MySQL)",
+                "description": "MySQL-compatible, enterprise-class database"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/GaussDB-foropenGauss.png.png",
+                "title": "GaussDB(for openGauss)",
+                "description": "Enterprise-grade, distributed relational database"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DDS.png.png",
+                "title": "Document Database Service (DDS)",
+                "description": "High-availability scalable, and secure MongoDB-compatible document database service"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/RDSforPostgreSQL.png.png",
+                "title": "RDS for PostgreSQL",
+                "description": "Open-source database that ensures data reliability and integrity"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/GaussDB-forRedis1.png.png",
+                "title": "GaussDB(for Redis)",
+                "description": "Redis-compatible database"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DRS.png.png",
+                "title": "Data Replication Service (DRS)",
+                "description": "Migrate your databases with minimum downtime"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/database.png",
+                "title": "View All Databases Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            }
+        ],
+        "category": "Databases"
+    },
+    {
+        "productData": [
+            {
+                "price": "$0.15 USD",
+                "rightText": "/hour",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ModelArts(1).png",
+                "title": "ModelArts",
+                "description": "One-stop AI development platform for developers and data scientists"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/hilens.png.png",
+                "title": "Huawei HiLens (HiLens)",
+                "description": "A multimodal AI development platform"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/OCR.png.png",
+                "title": "Optical Character Recognition (OCR)",
+                "description": "Detect and extract text from images and convert it into an editable JSON format"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ContentModeration.png.png",
+                "title": "Content Moderation",
+                "description": "Scan text and images for inappropriate content"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/imagerecognition.png.png",
+                "title": "Image Recognition",
+                "description": "Automatically identify image content"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/imagesearch.png.png",
+                "title": "Image Search",
+                "description": "Exact and fuzzy image search"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/CBS.png.png",
+                "title": "Question Answering Bot (QABot)",
+                "description": "Build and manage intelligent Q&A bots"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/AI.png",
+                "title": "View All AI Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            }
+        ],
+        "category": "AI"
+    },
+    {
+        "productData": [
+            {
+                "price": "$0.93 USD",
+                "rightText": "/hour",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/MRS(1).png",
+                "title": "MapReduce Service (MRS)",
+                "description": "An enterprise-level big data cluster service"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/CSS.png.png",
+                "title": "Cloud Search Service (CSS)",
+                "description": "Retrieve structured and unstructured data from diverse sources"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DGC.png.png",
+                "title": "Data Lake Governance Center (DGC)",
+                "description": "A one-stop data lake governance platform"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DLI(1).png",
+                "title": "Data Lake Insight (DLI)",
+                "description": "Data analysis for both stream and batch processing"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/dashuju/DWS.png",
+                "title": "Data Warehouse Service (DWS)",
+                "description": "Market-leading performance, superlative stability, and on-demand scaling"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DLV.png.png",
+                "title": "Data Lake Visualization (DLV)",
+                "description": "Custom components for creating intuitive graphical displays of the data in your data lake"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/CS.png.png",
+                "title": "Cloud Stream Service (CS)",
+                "description": "A real-time big data analysis platform"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/analytics(1).png",
+                "title": "View All Analytics Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            }
+        ],
+        "category": "Analytics"
+    },
+    {
+        "productData": [
+            {
+                "price": "$138.00 USD",
+                "rightText": "/server/year",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/HSS(1).png",
+                "title": "Host Security Service (HSS)",
+                "description": "Manage assets, prevent intrusions, and eliminate vulnerabilities and unsafe settings"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/WAF.png.png",
+                "title": "Web Application Firewall (WAF)",
+                "description": "Shield web apps and websites against emerging threats 24/7"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/AAD.png.png",
+                "title": "Advanced Anti-DDoS (AAD)",
+                "description": "Traffic diversion for DDoS mitigation to ensure origin server stability"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DEW.png.png",
+                "title": "Data Encryption Workshop (DEW)",
+                "description": "Secure and easy-to-use cloud data encryption and key management"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/security.png",
+                "title": "View All Security & Compliance Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/ANTI-ddos.png.png",
+                "title": "Anti-DDoS",
+                "description": "Network- and application-layer DDoS mitigation"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DBSS.png.png",
+                "title": "Database Security Service (DBSS)",
+                "description": "Audit databases, prevent SQL injection, and identify suspicious operations"
+            }
+        ],
+        "category": "Security & Compliance"
+    },
+    {
+        "productData": [
+            {
+                "price": "$0.33 USD",
+                "rightText": "/hour",
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/CSE(1).png",
+                "title": "Cloud Service Engine (CSE)",
+                "description": "Rapid microservice application registration, discovery, configuration management, and governance"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DCS-redis.png.png",
+                "title": "Distributed Cache Service (DCS) for Redis",
+                "description": "An in-memory caching service compatible with Redis"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DCSformemcached.png.png",
+                "title": "Distributed Cache Service (DCS) for Memcached",
+                "description": "A high-performance distributed caching system"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/DMS(1).png",
+                "title": "Distributed Message Service (DMS)",
+                "description": "A high-performance managed message queue service"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/middleware.png",
+                "title": "View All Middleware Products",
+                "description": "Overview of All HUAWEI CLOUD Products"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/Kafka.png.png",
+                "title": "Distributed Message Service (DMS) for Kafka",
+                "description": "A fully managed, highly reliable message middleware service"
+            },
+            {
+                "img": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/yunying/intl-home/icons/APIG.png.png",
+                "title": "API Gateway",
+                "description": "Build, manage, and deploy APIs at any scale"
+            }
+        ],
+        "category": "Middleware"
+    }
+]
