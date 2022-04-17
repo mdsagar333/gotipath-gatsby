@@ -1,0 +1,222 @@
+[
+    {
+      "logoSrc": "https://assets.website-files.com/5f1efd2768fed6b653883c9d/5f1efd2768fed63a1b883d1a_us.svg",
+      "price": 16,
+      "feature": [{"ssl": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_scaling": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_backups": {
+        "status": true,
+        "text": ""
+      },
+      "content_distribution_network_(CDN)": {
+        "status": true,
+        "text": ""
+      },
+      "password_protection": {
+        "status": true,
+        "text": ""
+      },
+      "custom_forms": {
+        "status": true,
+        "text": ""
+      },
+      "site_search": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_security_patching_and_maintenance": {
+        "status": true,
+        "text": ""
+      },
+      "3rd_party_security_review": {
+        "status": true,
+        "text": ""
+      },
+      "visual_design_and_publishing_platform": {
+        "status": true,
+        "text": ""
+      }}]
+    },
+    {
+      "logoSrc": "https://assets.website-files.com/5f1efd2768fed6b653883c9d/5f1efd2768fed6341c883e93_logo-engine.svg",
+      "price": 35,
+     "feature": [{ "ssl": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_scaling": {
+        "status": false,
+        "text": ""
+      },
+      "automatic_backups": {
+        "status": false,
+        "text": "deleted after 40 days"
+      },
+      "content_distribution_network_(CDN)": {
+        "status": true,
+        "text": ""
+      },
+      "password_protection": {
+        "status": false,
+        "text": "with plugin"
+      },
+      "custom_forms": {
+        "status": false,
+        "text": ""
+      },
+      "site_search": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_security_patching_and_maintenance": {
+        "status": false,
+        "text": ""
+      },
+      "3rd_party_security_review": {
+        "status": false,
+        "text": ""
+      },
+      "visual_design_and_publishing_platform": {
+        "status": false,
+        "text": ""
+      }}]
+    },
+    {
+      "logoSrc": "https://assets.website-files.com/5f1efd2768fed6b653883c9d/5f1efd2768fed65a38883e95_001-logo-flywheel.svg",
+      "price": 23,
+      "feature": [{"ssl": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_scaling": {
+        "status": false,
+        "text": ""
+      },
+      "automatic_backups": {
+        "status": true,
+        "text": ""
+      },
+      "content_distribution_network_(CDN)": {
+        "status": true,
+        "text": ""
+      },
+      "password_protection": {
+        "status": false,
+        "text": "with plugin"
+      },
+      "custom_forms": {
+        "status": false,
+        "text": ""
+      },
+      "site_search": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_security_patching_and_maintenance": {
+        "status": true,
+        "text": ""
+      },
+      "3rd_party_security_review": {
+        "status": false,
+        "text": ""
+      },
+      "visual_design_and_publishing_platform": {
+        "status": false,
+        "text": ""
+      }}]
+    },
+    {
+      "logoSrc": "https://assets.website-files.com/5f1efd2768fed6b653883c9d/5f1efd2768fed682ef883d0d_square.svg",
+      "price": 16,
+      "feature": [{"ssl": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_scaling": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_backups": {
+        "status": false,
+        "text": ""
+      },
+      "content_distribution_network_(CDN)": {
+        "status": true,
+        "text": ""
+      },
+      "password_protection": {
+        "status": true,
+        "text": ""
+      },
+      "custom_forms": {
+        "status": true,
+        "text": ""
+      },
+      "site_search": {
+        "status": true,
+        "text": ""
+      },
+      "automatic_security_patching_and_maintenance": {
+        "status": false,
+        "text": ""
+      },
+      "3rd_party_security_review": {
+        "status": false,
+        "text": ""
+      },
+      "visual_design_and_publishing_platform": {
+        "status": false,
+        "text": "template-based "
+      }}]
+    },
+    {
+      "logoSrc": "https://assets.website-files.com/5f1efd2768fed6b653883c9d/5f1efd2768fed65b3b883e8f_logo-godaddy.svg",
+      "price": 7.99,
+      "feature": [{"ssl": {
+        "status": false,
+        "text": ""
+      },
+      "automatic_scaling": {
+        "status": false,
+        "text": ""
+      },
+      "automatic_backups": {
+        "status": false,
+        "text": ""
+      },
+      "content_distribution_network_(CDN)": {
+        "status": false,
+        "text": ""
+      },
+      "password_protection": {
+        "status": false,
+        "text": ""
+      },
+      "custom_forms": {
+        "status": false,
+        "text": ""
+      },
+      "site_search": {
+        "status": false,
+        "text": ""
+      },
+      "automatic_security_patching_and_maintenance": {
+        "status": false,
+        "text": ""
+      },
+      "3rd_party_security_review": {
+        "status": false,
+        "text": ""
+      },
+      "visual_design_and_publishing_platform": {
+        "status": false,
+        "text": "template-based"
+      }}]
+    }
+  ]

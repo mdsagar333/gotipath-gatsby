@@ -1,3 +1,17 @@
+@import url(//db.onlinewebfonts.com/c/08dd84ac7cbc31484a901d60c8c2c205?family=Huawei+Sans);
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* C7000B */
+@layer utilities {
+    .active {
+      border-left: 2px solid #B91C1C
+    }
+    .not-active {
+      border-left:2px solid transparent
+    }
+    
+  }
