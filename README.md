@@ -1,1 +1,1 @@
-###gotiPath-gatsby-project
+#gotiPath-gatsby-project
